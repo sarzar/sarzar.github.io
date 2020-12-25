@@ -8,7 +8,14 @@ $(document).ready(function(){
     });
     
      $( "#profile-picture" ).click(function() {
-        $("profile-picture").attr("src", "https://designwoop.com/uploads/2014/01/14-2.png");
+         
+         const originalImage="https://uploads.scratch.mit.edu/galleries/thumbnails/110/6432.png";
+         const secondImage = "https://designwoop.com/uploads/2014/01/14-2.png";
+         const currentImage = $("#profile-picture").attr("src");
+         
+         
+          
+        $("#profile-picture").attr("src", currentImage === originalImage ? secondImage : originalImage);
     });
 
 });
