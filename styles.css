@@ -2,5 +2,7 @@
     border: 3px green solid;
 }
 #body-hi{
-    background: rgb(236,230,220);
+    background: black;
+    font-family: "Fira Code";
+    color: green;
 } 
