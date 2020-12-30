@@ -139,6 +139,19 @@ const teamMembers = [
     link_type: "LinkedIn",
     link_url: "https://www.linkedin.com/in/jacob-munene-4561a4153/",
   },
+  {
+    first_name: "Sarim",
+    last_name: "Zia",
+    position: "Software Developer",
+    username: null,
+    img_url:"https://st3.depositphotos.com/3581215/18899/v/600/depositphotos_188994514-stock-illustration-vector-illustration-male-silhouette-profile.jpg" ,
+    description_1:
+      "Sarim is a grade 12 student studying at Garth Webb.",
+    description_2:
+      "For fun, he enjoys playing cricket, and videogames",
+    link_type: "Instagram",
+    link_url: "https://www.instagram.com/sarim.z/?hl=en"
+  },
 ];
 
 function TeamMemberCard({ teamMember, showLinkedin = true }) {
