@@ -1,0 +1,855 @@
+{
+  "data": [
+    {
+      "id": 342,
+      "education_level": [
+        "Secondary School",
+        "University",
+        "College",
+        "Workplace or Apprenticeship"
+      ],
+      "education_field": [
+        "Arts (Undergrad)",
+        "STEM (Undergrad)",
+        "Trade School",
+        "Visual + Performing Arts",
+        "Law School",
+        "Medical School",
+        "MBA",
+        "Arts (Grad School)",
+        "STEM (Grad School)",
+        "Other"
+      ],
+      "funding_type": [
+        "Scholarship"
+      ],
+      "extra_questions": {
+        "funding_amount_varies": true
+      },
+      "city": [],
+      "province": [],
+      "country": [],
+      "name": "Rogers Family Award",
+      "description": "Two awards: Faculties of Arts & Social Science\r\nThree awards: Faculty of Science\r\nFull-time students registered in their third year of study at the University of Western\r\nOntario based on academic achievement in Year 2. Preference to students with greatest increase in their fall/winter academic average between first and second year. Demonstrate an aptitude for creative and innovative thought, exceptional achievement in extracurricular activities and commitment to active citizenship.",
+      "essay_set": [],
+      "slug": "rogers-family-award",
+      "criteria_info": "<h2>Rogers Family Award</h2>\r\n<p>Two awards available each for the Faculties of <strong>Arts</strong> &amp; <strong>Social Science</strong></p>\r\n<p>Three awards available for the Faculty of <strong>Science</strong></p>\r\n<p>Available to full-time students registered in their third year of study at the University of Western</p>\r\n<p>Ontario based on academic achievement in Year 2. Preference will be given to students who</p>\r\n<p>have demonstrated the greatest increase in their fall/winter academic average between the first</p>\r\n<p>year of university study and completion of the second year of university. Candidates must also</p>\r\n<p>demonstrate an aptitude for creative and innovative thought, exceptional achievement in</p>\r\n<p>extracurricular activities and commitment to active citizenship.</p>\r\n<p>&nbsp;</p>\r\n<p>Application forms can be obtained from the Registrar&rsquo;s web site and must be submitted no later than <strong>October 18th</strong>. A university</p>\r\n<p>selection committee will choose academically qualified recipients based on the application and</p>\r\n<p>essay submission. Essays should be between 250 and 500 words in length, and should describe</p>\r\n<p>your strengths in meeting the criteria of the award. Established through the generosity of Ted</p>\r\n<p>and Loretta Rogers and Family.</p>\r\n<p>&nbsp;</p>\r\n<p>Value: 7 @ up to $2500</p>",
+      "date_created": "2018-03-26",
+      "date_time_created": "2018-03-26T17:42:10.024923Z",
+      "updated_at": "2020-09-16T00:57:12.130173Z",
+      "deadline": "2020-09-20T15:59:00Z",
+      "is_not_available": false,
+      "open_date": null,
+      "base_match_score": 0.0124,
+      "form_url": "https://registrar.uwo.ca/student_finances/scholarships_awards/pdfs/In%20Course%20Rogers%20Family.pdf",
+      "local_form_location": "",
+      "img_url": "https://ucarecdn.com/a54fb8a0-12c5-4bfb-a848-76f68860d825/utuwo08.jpg",
+      "scholarship_url": "https://www.uwo.ca/arts/counselling/awards/awards.html",
+      "email_contact": "arts@uwo.ca",
+      "funding_amount": "2500.00",
+      "keywords": "University of Western Ontario Liberal Arts",
+      "ethnicity": [],
+      "heritage": [],
+      "citizenship": [],
+      "religion": [],
+      "activities": [],
+      "sports": [],
+      "disability": [],
+      "language": [],
+      "eligible_schools": [
+        "University of Western Ontario"
+      ],
+      "eligible_programs": [
+        "Liberal Arts"
+      ],
+      "academic_average": null,
+      "submission_info": {
+        "web_form_parent": {
+          "element_type": "",
+          "attribute_type": "",
+          "attribute_value": ""
+        },
+        "web_form_entries": [
+          {
+            "question_key": "",
+            "attribute_type": "",
+            "attribute_value": ""
+          }
+        ],
+        "application_form_type": "Web"
+      },
+      "extra_criteria": {},
+      "is_automated": false,
+      "bot_created": false,
+      "renewable_years": 0,
+      "financial_need": false,
+      "no_essay_required": false,
+      "female_only": false,
+      "international_students_eligible": false,
+      "number_available_scholarships": 1,
+      "resume_required": false,
+      "cover_letter_required": false,
+      "transcript_required": false,
+      "reference_letter_required": 0,
+      "enrollment_proof_required": false,
+      "document_details": {},
+      "metadata": {
+        "quick_add": true,
+        "base_score": 0.012400000000000001,
+        "needs_review": true
+      },
+      "review_date": null,
+      "review_status": null,
+      "owner": 1
+    },
+    {
+      "id": 291,
+      "education_level": [
+        "Secondary School",
+        "University",
+        "College",
+        "Workplace or Apprenticeship"
+      ],
+      "education_field": [
+        "Arts (Undergrad)",
+        "STEM (Undergrad)",
+        "Trade School",
+        "Visual + Performing Arts",
+        "Law School",
+        "Medical School",
+        "MBA",
+        "Arts (Grad School)",
+        "STEM (Grad School)",
+        "Other"
+      ],
+      "funding_type": [
+        "Scholarship"
+      ],
+      "extra_questions": {},
+      "city": [],
+      "province": [],
+      "country": [],
+      "name": "AYN RAND Atlas Shrugged Essay Contest",
+      "description": "Contest is open to students worldwide. \r\nEntrant must be a 12th-grader, college undergraduate or graduate student for any part of the school year in which the contest is held.",
+      "essay_set": [],
+      "slug": "ayn-rand-atlas-shrugged-essay-contest",
+      "criteria_info": "<h2>REQUIREMENTS</h2>\n\n<ul>\n<li><p>No application is required. Contest is open to students worldwide, except where void or prohibited by law. Essays must be written in English only.</p></li>\n<li><p>Entrant must be a 12th-grader, college undergraduate or graduate student for any part of the school year in which the contest is held. ARI reserves the right to make exceptions to this rule, on a case-by-case basis, for international students or for students with nonstandard school years.</p></li>\n<li><p>To avoid disqualification, mailed-in essays must include a stapled cover sheet with the following information: </p></li>\n</ul>\n\n<ol>\n<li><p>your name and address;</p></li>\n<li><p>your email address (if available);</p></li>\n<li><p>the name and address of your school;</p></li>\n<li><p>topic selected (#1, 2 or 3 from the \"Topics\" tab)\n\n</p></li>\n</ol>\n\n<p>;</p>\n\n<ol>\n<li><p>your current grade level; and</p></li>\n<li><p>(optional) the name of the teacher who assigned the essay if you are completing it for classroom credit.</p></li>\n</ol>\n\n<ul>\n<li>Essay must be no fewer than 800 and no more than 1,600 words in length, double-spaced. Spelling errors and/or written corrections (by anyone) found on the essay will count against the final grade and should be omitted before submission.## ABOUT <a href=\"https://ari.aynrand.org/\">THE AYN RAND INSTITUTE</a></li>\n</ul>\n\n<p>ARI fosters a growing awareness, understanding and acceptance of Ayn Rand's\nphilosophy, Objectivism, in order to create a culture whose guiding principles\nare reason, rational self-interest, individualism and laissez-faire\ncapitalism­­ -- a culture in which individuals are free to pursue their own\nhappiness. How? Our strategy, priorities and programs are informed by Rand's\ndistinctive view of what sets the direction of a society. It is not the latest\nelection results or media celebrities but the philosophic ideas that shape\nmen's choices and actions.</p>",
+      "date_created": "2018-02-27",
+      "date_time_created": "2018-02-27T18:48:10.193952Z",
+      "updated_at": "2020-09-16T02:52:25.059832Z",
+      "deadline": "2020-09-21T23:59:00Z",
+      "is_not_available": false,
+      "open_date": null,
+      "base_match_score": 0.0004,
+      "form_url": "",
+      "local_form_location": "",
+      "img_url": "https://aynrand.org/wp-content/themes/aro/images/logo-header.png",
+      "scholarship_url": "https://aynrand.org/students/essay-contests/#tab-3-atlas-shrugged",
+      "email_contact": "",
+      "funding_amount": "25000.00",
+      "keywords": "international student",
+      "ethnicity": [],
+      "heritage": [],
+      "citizenship": [],
+      "religion": [],
+      "activities": [],
+      "sports": [],
+      "disability": [],
+      "language": [],
+      "eligible_schools": [],
+      "eligible_programs": [],
+      "academic_average": null,
+      "submission_info": {
+        "web_form_parent": {
+          "element_type": "",
+          "attribute_type": "",
+          "attribute_value": ""
+        },
+        "web_form_entries": [
+          {
+            "question_key": "",
+            "attribute_type": "",
+            "attribute_value": ""
+          }
+        ],
+        "application_form_type": "PDF"
+      },
+      "extra_criteria": {},
+      "is_automated": false,
+      "bot_created": false,
+      "renewable_years": 0,
+      "financial_need": false,
+      "no_essay_required": false,
+      "female_only": false,
+      "international_students_eligible": true,
+      "number_available_scholarships": 1,
+      "resume_required": false,
+      "cover_letter_required": false,
+      "transcript_required": false,
+      "reference_letter_required": 0,
+      "enrollment_proof_required": false,
+      "document_details": {},
+      "metadata": {
+        "base_score": 0.00039999999999999996,
+        "old_criteria_info": "## REQUIREMENTS\n\n  * No application is required. Contest is open to students worldwide, except where void or prohibited by law. Essays must be written in English only.\n  * Entrant must be a 12th-grader, college undergraduate or graduate student for any part of the school year in which the contest is held. ARI reserves the right to make exceptions to this rule, on a case-by-case basis, for international students or for students with nonstandard school years.\n  * To avoid disqualification, mailed-in essays must include a stapled cover sheet with the following information: \n    1. your name and address;\n    2. your email address (if available);\n    3. the name and address of your school;\n    4. topic selected (#1, 2 or 3 from the \"Topics\" tab);\n    5. your current grade level; and\n    6. (optional) the name of the teacher who assigned the essay if you are completing it for classroom credit.\n  * Essay must be no fewer than 800 and no more than 1,600 words in length, double-spaced. Spelling errors and/or written corrections (by anyone) found on the essay will count against the final grade and should be omitted before submission.\n\n## ABOUT [THE AYN RAND INSTITUTE](https://ari.aynrand.org/)\n\nARI fosters a growing awareness, understanding and acceptance of Ayn Rand's\nphilosophy, Objectivism, in order to create a culture whose guiding principles\nare reason, rational self-interest, individualism and laissez-faire\ncapitalism­­ -- a culture in which individuals are free to pursue their own\nhappiness. How? Our strategy, priorities and programs are informed by Rand's\ndistinctive view of what sets the direction of a society. It is not the latest\nelection results or media celebrities but the philosophic ideas that shape\nmen's choices and actions.\n\n"
+      },
+      "review_date": null,
+      "review_status": null,
+      "owner": 1
+    },
+    {
+      "id": 548,
+      "education_level": [
+        "Secondary School",
+        "University",
+        "College",
+        "Workplace or Apprenticeship"
+      ],
+      "education_field": [
+        "Arts (Undergrad)",
+        "STEM (Undergrad)",
+        "Trade School",
+        "Visual + Performing Arts",
+        "Law School",
+        "Medical School",
+        "MBA",
+        "Arts (Grad School)",
+        "STEM (Grad School)",
+        "Other"
+      ],
+      "funding_type": [
+        "Scholarship"
+      ],
+      "extra_questions": {
+        "funding_amount_varies": false
+      },
+      "city": [],
+      "province": [],
+      "country": [],
+      "name": "Complete Test Preparation Scholarship",
+      "description": "Any full time student in High School, College or University can apply.\nWrite a 500 word essay on your best test preparation method, or, your best study skill!",
+      "essay_set": [],
+      "slug": "complete-test-preparation-scholarship",
+      "criteria_info": "<article id=\"post-10504\" class=\"post-10504 page type-page status-publish hentry\">\n<div class=\"entry-content\">\n<div id=\"pl-10504\" class=\"panel-layout\">\n<div id=\"pg-10504-2\" class=\"panel-grid panel-no-style\">\n<div id=\"pgc-10504-2-0\" class=\"panel-grid-cell\">\n<div id=\"panel-10504-2-0-0\" class=\"so-panel widget widget_text panel-first-child panel-last-child\" data-index=\"2\">\n<h3 class=\"widget-title\">APPLICATION</h3>\n<div class=\"textwidget\">\n<p>Submit your 500 word essay on your best test preparation method, or, your best study skill by 11:59pm on Sunday, September 30, 2020.</p>\n<p>Winners will be announced October 15 2020</p>\n<p>Include your resume and a recent photo (JPG or PNG if submitting by email)</p>\n<p>also include where you are attending university or college, or if currently completing grade 12, your education plans.</p>\n<p><strong>Send your application to:</strong></p>\n<p>Complete Test Preparation Inc<br />349 Foul Bay Rd. Suite F<br />Victoria BC Canada V8S 4G7</p>\n<p>or email to scholarship@test-preparation.ca</p>\n</div>\n</div>\n</div>\n<div id=\"pgc-10504-2-1\" class=\"panel-grid-cell\">\n<div id=\"panel-10504-2-1-0\" class=\"so-panel widget widget_text panel-first-child panel-last-child\" data-index=\"3\">\n<h3 class=\"widget-title\">JUDGING</h3>\n<div class=\"textwidget\">\n<p>Your essay will be worth 70% and your resume will be worth 30%</p>\n</div>\n</div>\n</div>\n</div>\n<div id=\"pg-10504-3\" class=\"panel-grid panel-no-style\">\n<div id=\"pgc-10504-3-0\" class=\"panel-grid-cell\">\n<div id=\"panel-10504-3-0-0\" class=\"so-panel widget widget_text panel-first-child panel-last-child\" data-index=\"4\">\n<h3 class=\"widget-title\">WHAT WE ARE LOOKING FOR</h3>\n<div class=\"textwidget\">\n<p>We have read A LOT of essays!&nbsp; Plus there are 500+ pages of information on how to study and how to prepare for a test on our website. We have seen a lot when it comes to students, study skills and test prep.</p>\n<p><strong>What we are looking for are interesting, creative and different ideas or approaches</stro",
+      "date_created": "2019-07-06",
+      "date_time_created": "2019-07-06T00:07:24.377592Z",
+      "updated_at": "2020-09-16T02:52:23.933186Z",
+      "deadline": "2020-09-30T23:59:00Z",
+      "is_not_available": false,
+      "open_date": null,
+      "base_match_score": 0.0004,
+      "form_url": "",
+      "local_form_location": "",
+      "img_url": "https://www.test-preparation.ca/wp-content/uploads/2019/01/logo6.jpg",
+      "scholarship_url": "https://www.test-preparation.ca/scholarship/",
+      "email_contact": "",
+      "funding_amount": "800.00",
+      "keywords": "",
+      "ethnicity": [],
+      "heritage": [],
+      "citizenship": [],
+      "religion": [],
+      "activities": [],
+      "sports": [],
+      "disability": [],
+      "language": [],
+      "eligible_schools": [],
+      "eligible_programs": [],
+      "academic_average": null,
+      "submission_info": {
+        "email_subject": "Tomiwa Ademidun's Complete Test Preparation Scholarship Application",
+        "web_form_parent": {
+          "element_type": "",
+          "attribute_type": "",
+          "attribute_value": ""
+        },
+        "web_form_entries": [
+          {
+            "question_key": "",
+            "attribute_type": "",
+            "attribute_value": ""
+          }
+        ],
+        "application_form_type": "Web",
+        "email_subject_is_custom": false
+      },
+      "extra_criteria": {},
+      "is_automated": false,
+      "bot_created": false,
+      "renewable_years": 0,
+      "financial_need": false,
+      "no_essay_required": false,
+      "female_only": false,
+      "international_students_eligible": false,
+      "number_available_scholarships": 1,
+      "resume_required": false,
+      "cover_letter_required": false,
+      "transcript_required": false,
+      "reference_letter_required": 0,
+      "enrollment_proof_required": false,
+      "document_details": {},
+      "metadata": {
+        "base_score": 0.00039999999999999996
+      },
+      "review_date": null,
+      "review_status": null,
+      "owner": 1
+    },
+    {
+      "id": 596,
+      "education_level": [
+        "('University', 'University')",
+        "('College', 'College')",
+        "('Workplace or Apprenticeship', 'Workplace or Apprenticeship')",
+        "('Secondary School', 'Secondary School')"
+      ],
+      "education_field": [
+        "('Arts (Undergrad)', 'Arts (Undergrad)')",
+        "('STEM (Undergrad)', 'STEM (Undergrad)')",
+        "('Trade School', 'Trade School')",
+        "('Visual + Performing Arts', 'Visual + Performing Arts')",
+        "('Law School', 'Law School')",
+        "('Medical School', 'Medical School')",
+        "('MBA', 'MBA')",
+        "('Arts (Grad School)', 'Arts (Grad School)')",
+        "('STEM (Grad School)', 'STEM (Grad School)')",
+        "('Other', 'Other')"
+      ],
+      "funding_type": [
+        "Scholarship"
+      ],
+      "extra_questions": {},
+      "city": [],
+      "province": [],
+      "country": [
+        {
+          "name": "Canada"
+        }
+      ],
+      "name": "Stratogrid Advisory Scholarship",
+      "description": "A citizen or legal Canadian resident\nStudents must be attending a Canadian university or college institution in above-mentioned fields of study\nStudents must complete the form below and attach the file with an up to 1000 words essay, highlighting the toughest challenges you have faced in your student or personal lives and how you have overcome them. (the file size should be less than 3MB)",
+      "essay_set": [],
+      "slug": "stratogrid-advisory-scholarship",
+      "criteria_info": "<p><strong>NOTE: Due to the COVID-19 Pandemic developments around the world, and our scholarship requirement to provide an admission or attendance letter from your University or College, we are extending the scholarship submission deadline to September 30th, 2020.</strong></p><p><strong>Thank you for understanding. Stay safe.</strong></p><p>&nbsp;</p><p><strong>StratoGrid Advisory</strong> is a Management Consulting firm located in Ottawa, Canada.</p><h2><strong>The StratoGrid Advisory Student Scholarship/Bursary Award</strong></h2><p>We are pleased to offer one (1) $500 scholarship/bursary for a Canadian university or college student in Business Continuity Planning, Emergency Management or Information Technology related fields of study.&nbsp;</p><h2><strong>The Scholarship&nbsp;Eligibility Criteria</strong></h2><p>To be eligible for this scholarship, applicants must meet the following criteria:</p><ul><li>The student must be a citizen or legal Canadian resident</li><li>Students must be attending a Canadian university or college institution in above-mentioned fields of study</li><li>Students must complete the form below and attach the file with an up to 1000 words essay, highlighting the toughest challenges you have faced in your student or personal lives and how you have overcome them. (the file size should be less than 3MB)<br>&nbsp;</li></ul><p>The submission deadline is <strong>September 30th, 2020</strong>. We will review the applications and award the scholarship/bursary by <strong>October 15th, 2020</strong>. The chosen student will be notified by email and this page will be updated announcing the results.&nbsp;</p>",
+      "date_created": "2019-12-12",
+      "date_time_created": "2019-12-12T22:02:08.955018Z",
+      "updated_at": "2020-09-16T02:52:23.461616Z",
+      "deadline": "2020-09-30T23:59:00Z",
+      "is_not_available": false,
+      "open_date": "2022-12-31",
+      "base_match_score": 0.0011,
+      "form_url": "https://www.stratogrid.com/scholarship/#gform_14",
+      "local_form_location": "",
+      "img_url": "https://media-exp1.licdn.com/dms/image/C4E0BAQGxyRqyA2gcDQ/company-logo_200_200/0?e=2159024400&v=beta&t=UDJS3oXkCw7ZJCm9OGeDCZRkILDIWGHINOEPX-jcozA",
+      "scholarship_url": "https://www.stratogrid.com/scholarship/",
+      "email_contact": "",
+      "funding_amount": "500.00",
+      "keywords": "Canada",
+      "ethnicity": [],
+      "heritage": [],
+      "citizenship": [
+        "Canada"
+      ],
+      "religion": [],
+      "activities": [],
+      "sports": [],
+      "disability": [],
+      "language": [],
+      "eligible_schools": [],
+      "eligible_programs": [],
+      "academic_average": null,
+      "submission_info": {},
+      "extra_criteria": {},
+      "is_automated": false,
+      "bot_created": false,
+      "renewable_years": 0,
+      "financial_need": false,
+      "no_essay_required": false,
+      "female_only": false,
+      "international_students_eligible": false,
+      "number_available_scholarships": 1,
+      "resume_required": false,
+      "cover_letter_required": false,
+      "transcript_required": false,
+      "reference_letter_required": 0,
+      "enrollment_proof_required": false,
+      "document_details": {},
+      "metadata": {
+        "base_score": 0.0011
+      },
+      "review_date": null,
+      "review_status": null,
+      "owner": 1
+    },
+    {
+      "id": 632,
+      "education_level": [
+        "('University', 'University')",
+        "('College', 'College')",
+        "('Workplace or Apprenticeship', 'Workplace or Apprenticeship')",
+        "('Secondary School', 'Secondary School')"
+      ],
+      "education_field": [
+        "('Arts (Undergrad)', 'Arts (Undergrad)')",
+        "('STEM (Undergrad)', 'STEM (Undergrad)')",
+        "('Trade School', 'Trade School')",
+        "('Visual + Performing Arts', 'Visual + Performing Arts')",
+        "('Law School', 'Law School')",
+        "('Medical School', 'Medical School')",
+        "('MBA', 'MBA')",
+        "('Arts (Grad School)', 'Arts (Grad School)')",
+        "('STEM (Grad School)', 'STEM (Grad School)')",
+        "('Other', 'Other')"
+      ],
+      "funding_type": [
+        "Scholarship"
+      ],
+      "extra_questions": {},
+      "city": [],
+      "province": [],
+      "country": [],
+      "name": "Local Over Global Scholarship",
+      "description": "If you’re into local coffee shops, community markets or boutique clothing stores, this scholarship might be for you. Tell us about the local businesses you support and how it impacts your community for the better, and you could win a $1,000* scholarship (if you win, be sure to leave them a great tip with your new scholarship money!)\n\nEligibility: Reside in any province or territory within Canada, Be 16 years of age or older, Be a member of Student Life Network, and Be a current student at a Canadian high school, College, University of CEGEP or currently accepted to attend an accredited Canadian College or University.",
+      "essay_set": [],
+      "slug": "local-over-global-scholarship",
+      "criteria_info": "",
+      "date_created": "2020-06-17",
+      "date_time_created": "2020-06-17T04:26:01.585694Z",
+      "updated_at": "2020-09-16T02:52:23.143924Z",
+      "deadline": "2020-09-30T23:59:00Z",
+      "is_not_available": false,
+      "open_date": "2022-12-31",
+      "base_match_score": 0.0004,
+      "form_url": "",
+      "local_form_location": "",
+      "img_url": "https://i.imgur.com/9CiAHtu.png",
+      "scholarship_url": "https://99scholarships.ca/206",
+      "email_contact": "",
+      "funding_amount": "1000.00",
+      "keywords": "",
+      "ethnicity": [],
+      "heritage": [],
+      "citizenship": [],
+      "religion": [],
+      "activities": [],
+      "sports": [],
+      "disability": [],
+      "language": [],
+      "eligible_schools": [],
+      "eligible_programs": [],
+      "academic_average": null,
+      "submission_info": {},
+      "extra_criteria": {},
+      "is_automated": false,
+      "bot_created": false,
+      "renewable_years": 0,
+      "financial_need": false,
+      "no_essay_required": false,
+      "female_only": false,
+      "international_students_eligible": false,
+      "number_available_scholarships": 1,
+      "resume_required": false,
+      "cover_letter_required": false,
+      "transcript_required": false,
+      "reference_letter_required": 0,
+      "enrollment_proof_required": false,
+      "document_details": {},
+      "metadata": {
+        "base_score": 0.00039999999999999996
+      },
+      "review_date": null,
+      "review_status": null,
+      "owner": 1368
+    },
+    {
+      "id": 641,
+      "education_level": [
+        "('University', 'University')",
+        "('College', 'College')",
+        "('Workplace or Apprenticeship', 'Workplace or Apprenticeship')",
+        "('Secondary School', 'Secondary School')"
+      ],
+      "education_field": [
+        "('Arts (Undergrad)', 'Arts (Undergrad)')",
+        "('STEM (Undergrad)', 'STEM (Undergrad)')",
+        "('Trade School', 'Trade School')",
+        "('Visual + Performing Arts', 'Visual + Performing Arts')",
+        "('Law School', 'Law School')",
+        "('Medical School', 'Medical School')",
+        "('MBA', 'MBA')",
+        "('Arts (Grad School)', 'Arts (Grad School)')",
+        "('STEM (Grad School)', 'STEM (Grad School)')",
+        "('Other', 'Other')"
+      ],
+      "funding_type": [
+        "Scholarship"
+      ],
+      "extra_questions": {},
+      "city": [],
+      "province": [],
+      "country": [
+        {
+          "name": "Canada"
+        },
+        {
+          "name": "United States"
+        },
+        {
+          "name": "United Kingdom"
+        }
+      ],
+      "name": "The Dogs Journal Scholarship Program for Undergraduate Students",
+      "description": "This scholarship will be awarded on a yearly basis to the students in the United States, Canada, and the United Kingdom.\n\nAny fresh student applying for an undergraduate program\nAll those students already enrolled in an undergraduate program.",
+      "essay_set": [],
+      "slug": "the-dogs-journal-scholarship-program-for-undergraduate-students",
+      "criteria_info": "<p><strong>How to Apply</strong></p><p>You must be thinking that there would be a long application procedure, but we have made it super simple. All you have to do is; write 1200-words post and submit it to us. The post MUST be about a dog breed or other related topics such as Dog’s Health and Behavior. Or you may also share your dog’s story such as a rescue or any super habit of your dog.</p><p><strong>Criteria of Eligibility:</strong></p><ul><li>Any fresh student applying for an undergraduate program</li><li>All those students already enrolled in an undergraduate program.</li></ul><p><strong>How to submit your article?</strong></p><ul><li>To submit your article, contact us on this email [woof&nbsp; (@) thedogsjournal&nbsp;(dot) com] along with your Full Name, Topic, College or University name, and the Program you are interested in.</li><li>Must contact us before the deadline; 30 September and 30 March every year.</li><li>You may be asked to provide proof of your enrollment or application.</li></ul><p><strong>The article must be:</strong></p><ul><li>100% unique and plagiarism free</li><li>Well-researched</li><li>Self-written</li><li>Well-organized</li></ul><p><strong>Rules and Regulations:</strong></p><ul><li>The post must be 100% original without any duplicate content. We check all the entries with premium plagiarism checking tools so the duplicated content can easily be detected. If plagiarism found, the submission will not be considered for our scholarship program.</li><li>Our jury has the right to select or reject any submission and the decision will final.</li><li>The Dogs Journal has the right to cancel the scholarship if the estimated number of submissions is not received before the deadline.</li></ul>",
+      "date_created": "2020-06-30",
+      "date_time_created": "2020-06-30T18:03:07.508887Z",
+      "updated_at": "2020-09-16T02:52:22.865579Z",
+      "deadline": "2020-09-30T23:59:00Z",
+      "is_not_available": false,
+      "open_date": "2022-12-31",
+      "base_match_score": 0.0011,
+      "form_url": "",
+      "local_form_location": "",
+      "img_url": "https://i.imgur.com/hfTnIIf.png",
+      "scholarship_url": "https://thedogsjournal.com/scholarships/",
+      "email_contact": "",
+      "funding_amount": "1200.00",
+      "keywords": "",
+      "ethnicity": [],
+      "heritage": [],
+      "citizenship": [],
+      "religion": [],
+      "activities": [],
+      "sports": [],
+      "disability": [],
+      "language": [],
+      "eligible_schools": [],
+      "eligible_programs": [],
+      "academic_average": null,
+      "submission_info": {
+        "application_form_type": "Web"
+      },
+      "extra_criteria": {},
+      "is_automated": false,
+      "bot_created": false,
+      "renewable_years": 0,
+      "financial_need": false,
+      "no_essay_required": false,
+      "female_only": false,
+      "international_students_eligible": false,
+      "number_available_scholarships": 1,
+      "resume_required": false,
+      "cover_letter_required": false,
+      "transcript_required": false,
+      "reference_letter_required": 0,
+      "enrollment_proof_required": false,
+      "document_details": {},
+      "metadata": {
+        "base_score": 0.0011
+      },
+      "review_date": null,
+      "review_status": null,
+      "owner": 1347
+    },
+    {
+      "id": 699,
+      "education_level": [
+        "('University', 'University')",
+        "('College', 'College')",
+        "('Workplace or Apprenticeship', 'Workplace or Apprenticeship')",
+        "('Secondary School', 'Secondary School')"
+      ],
+      "education_field": [
+        "('Arts (Undergrad)', 'Arts (Undergrad)')",
+        "('STEM (Undergrad)', 'STEM (Undergrad)')",
+        "('Trade School', 'Trade School')",
+        "('Visual + Performing Arts', 'Visual + Performing Arts')",
+        "('Law School', 'Law School')",
+        "('Medical School', 'Medical School')",
+        "('MBA', 'MBA')",
+        "('Arts (Grad School)', 'Arts (Grad School)')",
+        "('STEM (Grad School)', 'STEM (Grad School)')",
+        "('Other', 'Other')"
+      ],
+      "funding_type": [
+        "Scholarship"
+      ],
+      "extra_questions": {},
+      "city": [],
+      "province": [],
+      "country": [],
+      "name": "SGI Corporate Scholarship",
+      "description": "Eligibility criteria\nApplicant must:\nBe a resident of Saskatchewan, Alberta, British Columbia, Manitoba or Ontario.\nNot be a legal dependant of an SGI CANADA employee (legal dependants of SGI and SGI CANADA employees are eligible for the SGI Anniversary Scholarships only).\nBe enrolled full-time in an undergraduate certificate, diploma, or degree program related to the business needs of SGI CANADA at an accredited post-secondary campus in Saskatchewan, Alberta, British Columbia, Manitoba or Ontario. We define business needs broadly to include all aspects and departments in the corporation.\nSubmit proof of enrolment in the fall semester of the current academic year.\nSubmit a transcript demonstrating a minimum average of 70% in the last academic year of study.\nDemonstrate contribution to community, extracurricular activities or commitments made in balancing work, education and home responsibilities.",
+      "essay_set": [],
+      "slug": "sgi-corporate-scholarship",
+      "criteria_info": "<p>We value higher education and recognize that post-secondary education is important and often essential for today's youth. In a commitment to helping students achieve their educational goals, SGI has partnered with universities and organizations to offer nine different scholarships with varying eligibility requirements.</p>",
+      "date_created": "2020-09-14",
+      "date_time_created": "2020-09-14T23:40:30.010975Z",
+      "updated_at": "2020-09-16T02:52:22.099691Z",
+      "deadline": "2020-09-30T23:59:00Z",
+      "is_not_available": false,
+      "open_date": "2022-12-31",
+      "base_match_score": 0.0004,
+      "form_url": "https://www.sgi.sk.ca/documents/625510/627029/SGI%20Corporate%20Scholarship%20form.pdf",
+      "local_form_location": "",
+      "img_url": "https://www.sgi.sk.ca/documents/625510/627068/logo.png/58a0bf29-0ca4-49f7-aa2f-bb2f14e8d15b",
+      "scholarship_url": "https://www.sgi.sk.ca/scholarships",
+      "email_contact": "scholarships@sgi.sk.ca",
+      "funding_amount": "2500.00",
+      "keywords": "Canada",
+      "ethnicity": [],
+      "heritage": [],
+      "citizenship": [
+        "Canada"
+      ],
+      "religion": [],
+      "activities": [],
+      "sports": [],
+      "disability": [],
+      "language": [],
+      "eligible_schools": [],
+      "eligible_programs": [],
+      "academic_average": null,
+      "submission_info": {},
+      "extra_criteria": {},
+      "is_automated": false,
+      "bot_created": false,
+      "renewable_years": 0,
+      "financial_need": false,
+      "no_essay_required": false,
+      "female_only": false,
+      "international_students_eligible": false,
+      "number_available_scholarships": 1,
+      "resume_required": false,
+      "cover_letter_required": false,
+      "transcript_required": false,
+      "reference_letter_required": 0,
+      "enrollment_proof_required": false,
+      "document_details": {},
+      "metadata": {
+        "base_score": 0.00039999999999999996
+      },
+      "review_date": null,
+      "review_status": null,
+      "owner": 1289
+    },
+    {
+      "id": 450,
+      "education_level": [
+        "Secondary School",
+        "University",
+        "College",
+        "Workplace or Apprenticeship"
+      ],
+      "education_field": [
+        "Arts (Undergrad)",
+        "STEM (Undergrad)",
+        "Trade School",
+        "Visual + Performing Arts",
+        "Law School",
+        "Medical School",
+        "MBA",
+        "Arts (Grad School)",
+        "STEM (Grad School)",
+        "Other"
+      ],
+      "funding_type": [
+        "Scholarship"
+      ],
+      "extra_questions": {
+        "funding_amount_varies": false
+      },
+      "city": [],
+      "province": [],
+      "country": [],
+      "name": "Western University/FIRST Engineering Scholarship",
+      "description": "Student entering full-time undergraduate studies in the Faculty of Engineering who has participated in the FIRST Robotics Competition Team (FRC) in high school.",
+      "essay_set": [],
+      "slug": "western-universityfirst-engineering-scholarship",
+      "criteria_info": "<p>The Western University/FIRST Engineering Scholarship is awarded annually to a student entering full-time undergraduate studies in the Faculty of Engineering who has participated in the&nbsp;<em>FIRST</em>&nbsp;Robotics Competition Team (FRC) in high school.</p>\r\n<p>This award is available to students in their final year of high school, who have been active on a FIRST Robotics Competition team (FRC) who are applying to Engineering at Western University. Applicants do not need to be Canadian citizens.</p>\r\n<p>The scholarship will be awarded through the regular admissions process to the Faculty of Engineering at Western University.&nbsp; The candidate must meet the admissions requirements to Engineering at Western and must submit a one page statement to the Faculty of Engineering by April 30 outlining their participation and role on a FIRST Robotics team including how the experience was formative in inspiring them to pursue an engineering education.&nbsp;&nbsp; A reference letter from a teacher or another adult involved with the FIRST team may accompany the application.</p>\r\n<p>Representatives involved with the Robotics Engineering competition in the Faculty of Engineering will select the recipient. This award is supported through the Faculty of Engineering.</p>\r\n<p>Further information can be found here:&nbsp;<a href=\"http://www.firstinspires.org/scholarships\" target=\"_blank\" rel=\"noopener noreferrer\">firstinspires.org/scholarships</a></p>\r\n<p>Value: 1 at $3,000 -&nbsp;<a href=\"https://www.eng.uwo.ca/files/undergraduate/2018-western-first-engineering-scholarship-description-2.pdf\">click here for separate application form</a></p>",
+      "date_created": "2018-09-22",
+      "date_time_created": "2018-09-22T19:51:31Z",
+      "updated_at": "2020-09-16T02:52:24.163168Z",
+      "deadline": "2020-09-30T03:59:00Z",
+      "is_not_available": false,
+      "open_date": null,
+      "base_match_score": 0.0124,
+      "form_url": "https://www.eng.uwo.ca/files/undergraduate/2018-western-first-engineering-scholarship-description-2.pdf",
+      "local_form_location": "",
+      "img_url": "https://ucarecdn.com/e9c71f72-0a55-4a36-aaae-95f5d69f8282/westernengineering.png",
+      "scholarship_url": "https://www.eng.uwo.ca/undergraduate/award-information.html",
+      "email_contact": null,
+      "funding_amount": "3000.00",
+      "keywords": "University of Western Ontario Engineering Electronics Robotics",
+      "ethnicity": [],
+      "heritage": [],
+      "citizenship": [],
+      "religion": [],
+      "activities": [
+        "Electronics",
+        "Robotics"
+      ],
+      "sports": [],
+      "disability": [],
+      "language": [],
+      "eligible_schools": [
+        "University of Western Ontario"
+      ],
+      "eligible_programs": [
+        "Engineering"
+      ],
+      "academic_average": null,
+      "submission_info": {
+        "email_subject": "Tomiwa Ademidun's Western University/FIRST Engineering Scholarship Application",
+        "web_form_parent": {
+          "element_type": "",
+          "attribute_type": "",
+          "attribute_value": ""
+        },
+        "web_form_entries": [
+          {
+            "question_key": "",
+            "attribute_type": "",
+            "attribute_value": ""
+          }
+        ],
+        "application_form_type": "Web",
+        "email_subject_is_custom": false
+      },
+      "extra_criteria": {},
+      "is_automated": false,
+      "bot_created": false,
+      "renewable_years": 0,
+      "financial_need": false,
+      "no_essay_required": false,
+      "female_only": false,
+      "international_students_eligible": false,
+      "number_available_scholarships": 1,
+      "resume_required": false,
+      "cover_letter_required": false,
+      "transcript_required": false,
+      "reference_letter_required": 0,
+      "enrollment_proof_required": false,
+      "document_details": {},
+      "metadata": {
+        "base_score": 0.012400000000000001
+      },
+      "review_date": null,
+      "review_status": null,
+      "owner": 1
+    },
+    {
+      "id": 547,
+      "education_level": [
+        "Secondary School",
+        "University",
+        "College",
+        "Workplace or Apprenticeship"
+      ],
+      "education_field": [
+        "Arts (Undergrad)",
+        "STEM (Undergrad)",
+        "Trade School",
+        "Visual + Performing Arts",
+        "Law School",
+        "Medical School",
+        "MBA",
+        "Arts (Grad School)",
+        "STEM (Grad School)",
+        "Other"
+      ],
+      "funding_type": [
+        "Scholarship"
+      ],
+      "extra_questions": {
+        "funding_amount_varies": false
+      },
+      "city": [],
+      "province": [],
+      "country": [
+        {
+          "name": "Canada"
+        },
+        {
+          "name": "United States"
+        },
+        {
+          "name": "Mexico"
+        }
+      ],
+      "name": "CORPORATE CULTURE SCHOLARSHIP",
+      "description": "Open to all undergraduate and graduate students currently attending any North American university.\nThe 2019 Corporate Culture Scholar will be granted an amount of $1,000.00.\nIn your application, please elaborate on your ideal culture from your future employer. You should also include your personal background and how it’s related to the podcast episode above about the corporate culture at Zappos.com.\n\nDeadline for scholarship applications will be on October 01, 2019",
+      "essay_set": [],
+      "slug": "corporate-culture-scholarship",
+      "criteria_info": "<div>\n<h2>Mechanics</h2>\n</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>\n<p>The Corporate Culture Scholarship sponsored by The Investor&rsquo;s Podcast is open to all undergraduate and graduate students currently attending any North American university.</p>\n<p>The 2019 Corporate Culture Scholar will be granted an amount of&nbsp;$1,000.00.</p>\n<p>Throughout multiple episodes, The Investor&rsquo;s Podcast has studied the corporate culture of multiple industries and found it to be the most important indicator of future success. The intention of the scholarship is to expose corporations&rsquo; increasing focus on profit and decreasing interest in employees&rsquo; well-being. The Investor&rsquo;s Podcast firmly believes that a highly profitable company shouldn&rsquo;t come at the expense of its employees&rsquo; happiness. We believe that sustainable profitability originates from the employees&rsquo; happiness, and that value creation for society and the individual starts with the employers&rsquo; genuine actions of showing how much they care.</p>\n<p>In your application, please elaborate on your ideal culture from your future employer. You should also include your personal background and how it&rsquo;s related to the podcast episode above about the corporate culture at Zappos.com.</p>\n<p>Deadline for scholarship applications will be on&nbsp;October 01, 2019.&nbsp;</p>\n<p>You can find more information about corporate culture in the executive summary of the book Delivering Happiness&nbsp;<a href=\"https://www.theinvestorspodcast.com/tony-hsieh-delivering-happiness/\">here</a>.</p>\n<p>When we communicate with our visitors or audience, we seek to teach them fundamental truths and ideas to make quality and thoughtful decisions. We seek to make our listeners more effective, efficient, and happy.&nbsp;The finance culture is often a rude and greedy place. Confusion is encouraged to protect profits. The Investor&rsquo;s Podcast creates the exact opposite culture and community. When",
+      "date_created": "2019-07-05",
+      "date_time_created": "2019-07-05T23:54:38.610115Z",
+      "updated_at": "2020-09-16T02:52:24.031852Z",
+      "deadline": "2020-10-01T23:59:00Z",
+      "is_not_available": false,
+      "open_date": null,
+      "base_match_score": 0.0011,
+      "form_url": "https://www.theinvestorspodcast.com/corporate-culture/",
+      "local_form_location": "",
+      "img_url": "https://www.theinvestorspodcast.com/wp-content/uploads/2019/06/TIP-Network-Logo-Final.png",
+      "scholarship_url": "https://www.theinvestorspodcast.com/corporate-culture/",
+      "email_contact": null,
+      "funding_amount": "1000.00",
+      "keywords": "",
+      "ethnicity": [],
+      "heritage": [],
+      "citizenship": [],
+      "religion": [],
+      "activities": [],
+      "sports": [],
+      "disability": [],
+      "language": [],
+      "eligible_schools": [],
+      "eligible_programs": [],
+      "academic_average": null,
+      "submission_info": {
+        "email_subject": "Tomiwa Ademidun's CORPORATE CULTURE SCHOLARSHIP Application",
+        "web_form_parent": {
+          "element_type": "",
+          "attribute_type": "",
+          "attribute_value": ""
+        },
+        "web_form_entries": [
+          {
+            "question_key": "",
+            "attribute_type": "",
+            "attribute_value": ""
+          }
+        ],
+        "application_form_type": "Web",
+        "email_subject_is_custom": false
+      },
+      "extra_criteria": {},
+      "is_automated": false,
+      "bot_created": false,
+      "renewable_years": 0,
+      "financial_need": false,
+      "no_essay_required": false,
+      "female_only": false,
+      "international_students_eligible": false,
+      "number_available_scholarships": 1,
+      "resume_required": false,
+      "cover_letter_required": false,
+      "transcript_required": false,
+      "reference_letter_required": 0,
+      "enrollment_proof_required": false,
+      "document_details": {},
+      "metadata": {
+        "base_score": 0.0011
+      },
+      "review_date": null,
+      "review_status": null,
+      "owner": 1
+    }
+  ],
+  "funding": "$340,242",
+  "length": 101,
+  "tango": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJndWVzc21lIjoiamlDUjR6RFVDdVZwS0JVIiwicGlnbGF0aW4iOiIzaTNXSDFvSHZjIiwiZXhwIjoxNjAwODI5NTgwLCJpYXQiOjE2MDAyMjQ3ODB9.y5HpgMDFC1u1vewrQHe-t9thGsB5H2LU04kj4KA-5Sc"
+}

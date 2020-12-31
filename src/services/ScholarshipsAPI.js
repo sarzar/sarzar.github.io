@@ -5,9 +5,9 @@ class ScholarshipsAPI {
     static searchScholarships = (searchPayload, page=1) => {
 
         const apiCompletionPromise = request({
-            method: 'post',
-            data: searchPayload,
-            url: `${Environment.apiUrl}/scholarship-preview/?page=${page}`,
+            method: 'get',
+     // data: searchPayload,
+            url: './scholarships-list.json',
         });
 
         return apiCompletionPromise;
