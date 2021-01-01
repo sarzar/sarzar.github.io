@@ -12,6 +12,8 @@ class ScholarshipsList extends React.Component {
         this.state = {
             model: null,
             scholarships: [],
+            scholarshipsCount: null,
+            scholarshipsFunding: null,
             searchPayload: {
                 location: { city :'', province :'', country :'', name :''},
                 education_level :[],
@@ -60,7 +62,7 @@ class ScholarshipsList extends React.Component {
             location : { search }
         } = this.props;
 
-        const { scholarships } = this.state;
+        const { scholarships, scholarshipsCount, scholarshipsFunding } = this.state;
 
         console.log({search});
         const params = new URLSearchParams(search);
@@ -83,6 +85,9 @@ class ScholarshipsList extends React.Component {
                 console.log({ scholarshipResults});
                 if (scholarshipResults) {
                     this.setState({ scholarships: scholarshipResults });
+                    this.setState({ scholarshipsFunding: res.data.funding,
+                    scholarshipsCount: res.data.length});
+                    
                 }
 
             })
@@ -105,15 +110,19 @@ class ScholarshipsList extends React.Component {
         } = this.props;
         const params = new URLSearchParams(search);
 
-        const { scholarships, isLoadingScholarships } = this.state;
+        const { scholarships, isLoadingScholarships, scholarshipsCount, scholarshipsFunding } = this.state;
         const searchQuery = params.get('q');
 
         return (
             <div>
                 <h1>
-                    {searchQuery && `Scholarships for ${toTitleCase(searchQuery)}`}
+                {searchQuery &&
+                  `${scholarshipsCount} Scholarships for ${toTitleCase(searchQuery)}`}
                     {!searchQuery && 'Scholarships'}
                 </h1>
+                <h2 className = "text-muted text-center">
+                  {scholarshipsFunding && `${scholarshipsFunding} in funding`}
+                 </h2>
                 
                 {scholarships &&
                 <Button type = "primary" onClick = {this.shuffleScholarships} className = "center-block">
