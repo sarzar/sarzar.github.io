@@ -1,5 +1,5 @@
 import request from 'axios';
-import Environment from './Environment'
+//import Environment from './Environment'
 class ScholarshipsAPI {
 
     static searchScholarships = (searchPayload, page=1) => {
