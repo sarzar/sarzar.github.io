@@ -1,6 +1,6 @@
 import React from 'react';
 import BarLoader from 'react-spinners/BarLoader';
-
+import { Button } from 'antd';
 import {toTitleCase} from "../../../services/utils";
 import ScholarshipCard from "../ScholarshipCard";
 import ScholarshipsAPI from "../../../services/ScholarshipsAPI";
@@ -34,7 +34,26 @@ class ScholarshipsList extends React.Component {
             this.loadScholarships(this.state.pageNumber);
         })
     };
+    
+    shuffle= (array) => {
+        var currentIndex = array.length, temporaryValue, randomIndex;
+        while(0 !== currentIndex){
+            randomIndex = Math.floor(Math.random()*currentIndex);
+            currentIndex -= 1;
+            
+            temporaryValue = array[currentIndex];
+            array[currentIndex] = array[randomIndex];
+            array[randomIndex] = temporaryValue;
+        }
+        return array;
+    }
 
+    shuffleScholarships = () => {
+    let {scholarships} = this.state;
+        
+        scholarships = this.shuffle(scholarships);
+        this.setState({scholarships});
+    }
     loadScholarships = (page) => {
 
         const {
@@ -95,7 +114,12 @@ class ScholarshipsList extends React.Component {
                     {searchQuery && `Scholarships for ${toTitleCase(searchQuery)}`}
                     {!searchQuery && 'Scholarships'}
                 </h1>
-
+                
+                {scholarships &&
+                <Button type = "primary" onClick = {this.shuffleScholarships} className = "center-block">
+                Shuffle Scholarships
+                </Button>
+                 }
                 <div className="container mt-3">
                     {scholarships.map( scholarship => <ScholarshipCard key={scholarship.id} className="col-12" scholarship={scholarship} />)}
                 </div>

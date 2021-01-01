@@ -150,7 +150,7 @@ const teamMembers = [
     description_2:
       "For fun, he enjoys playing cricket, and videogames",
     link_type: "Instagram",
-    link_url: "https://www.instagram.com/sarim.z/?hl=en"
+    link_url: "https://www.instagram.com/sarim.z/?hl=en",
   },
 ];
 
