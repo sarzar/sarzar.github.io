@@ -1,8 +1,9 @@
 #profile-picture {
-    border: 3px green solid;
+    border: 3px #ff2b06 solid;
 }
 #body-hi{
-    background: black;
-    font-family: "Fira Code";
-    color: green;
+    background: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    color: #0b0c0b;
+    margin-top: 11%;
 } 
